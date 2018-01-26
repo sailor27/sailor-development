@@ -8,7 +8,7 @@ The purpose of this code review is to identify my weaknesses, and proactively ad
 This project includes content outside of github:
 * [Trello Board](https://trello.com/b/B7dYMhYH) - Contains short and long term tasks
 * [Twitter](https://twitter.com/SailorWinkelman) - Beginnings of my public writing about my coding journey
-* [Treehouse](https://teamtreehouse.com/sailorwinkelman) - What I've learned since I started coding in 2015. Currently I have been hopping around Javascript lessons.
+* [Treehouse](https://teamtreehouse.com/sailorwinkelman) - What I've learned since I started coding in 2015. Recently I have been hopping around Javascript lessons.
 * [CodeNewbie Challenge](https://www.codenewbie.org/) - I started the Get A Job challenge on 1/23/18
   * [Self-Assessment](https://twitter.com/SailorWinkelman/status/956051497137197060)
   * [Mission 1: Research 10 Companies](https://docs.google.com/spreadsheets/d/1m6CU9kOp1OIj-qI3sSoFXLePX2qAhFZFNULS6LLgP-g/edit?usp=sharing)
@@ -22,13 +22,13 @@ My Favorite Coding Resources:
 
 ## Plan for 01/25/18
 
-* Organize to-dos on [Trello Board](https://trello.com/b/B7dYMhYH)
-* Synthesize instructor feedback from previous code reviews and identify themes.
-* Reflect on themes for life beyond Epicodus.
-* Create Roadmap
-* Collect current work and Resources
+* Organize to-dos on [Trello Board](https://trello.com/b/B7dYMhYH) x
+* Synthesize instructor feedback from previous code reviews and identify themes. x
+* Reflect on themes for life beyond Epicodus. x
+* Create Roadmap x
+* Collect current work and Resources x
 -- Lunch ---
-* Finish CodeNewbie Mission 1
+* Finish CodeNewbie Mission 1 x
 * Enhance 1 Epicodus project
 * Post on Twitter
 * Read A Basecs post about Data Structures and write down what I learned
