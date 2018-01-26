@@ -5,12 +5,35 @@ The purpose of this code review is to identify my weaknesses, and proactively ad
 
 ## Contents
 
-Note: This project includes content outside of github. Links are included.
+This project includes content outside of github:
+* [Trello Board](https://trello.com/b/B7dYMhYH) - Contains short and long term tasks
+* [Twitter](https://twitter.com/SailorWinkelman) - Beginnings of my public writing about my coding journey
+* [Treehouse](https://teamtreehouse.com/sailorwinkelman) - What I've learned since I started coding in 2015. Currently I have been hopping around Javascript lessons.
+* [CodeNewbie Challenge](https://www.codenewbie.org/) - I started the Get A Job challenge on 1/23/18
+  * [Self-Assessment](https://twitter.com/SailorWinkelman/status/956051497137197060);
+  * [Mission 1: Research 10 Companies](https://docs.google.com/spreadsheets/d/1m6CU9kOp1OIj-qI3sSoFXLePX2qAhFZFNULS6LLgP-g/edit?usp=sharing)
 
-1. Organize to-dos on [Trello Board](https://trello.com/b/B7dYMhYH)
-2. Synthesize instructor feedback from previous code reviews and identify themes.
-3. Reflect on themes for life beyond Epicodus.
-4. Roadmap
+My Favorite Coding Resources:
+* [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
+* [Basecs Podcast](https://www.codenewbie.org/basecs) and [Blog](https://medium.com/basecs)
+* [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), especially [Javascript and p5.js](https://www.youtube.com/user/shiffman/playlists?shelf_id=14&view=50&sort=dd)
+* [Glitch](https://glitch.com/)
+
+
+## Plan for 01/25/18
+
+* Organize to-dos on [Trello Board](https://trello.com/b/B7dYMhYH)
+* Synthesize instructor feedback from previous code reviews and identify themes.
+* Reflect on themes for life beyond Epicodus.
+* Create Roadmap
+* Collect current work and Resources
+-- Lunch ---
+* Finish CodeNewbie Mission 1
+* Enhance 1 Epicodus project
+* Post on Twitter
+* Practice a skill (pick from Trello board)
+
+
 
 ### Themes from Code Reviews
 
