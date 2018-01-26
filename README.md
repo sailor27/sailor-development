@@ -10,6 +10,7 @@ Note: This project includes content outside of github. Links are included.
 1. Organize to-dos on [Trello Board](https://trello.com/b/B7dYMhYH)
 2. Synthesize instructor feedback from previous code reviews and identify themes.
 3. Reflect on themes for life beyond Epicodus.
+4. Roadmap
 
 ### Themes from Code Reviews
 
@@ -35,8 +36,14 @@ In addition to practicing technical skills, I need to prepare for the experience
 
 Moving forward, I need to make connections in the industry, while still giving myself the time and space for dedicated practice and commitment to my work. I'm deciding that the most practical option for achieving this is to start making my practice public, and in active discourse with a community of people working on the same problems.
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+## Roadmap
+| Objective                                                                  | Time                                               | Resources                                                                                                                            | Notes                      |
+|----------------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| Polish existing projects to portfolio quality                              | 1 by 1/25/18 all by end of Epicodus track          |                                                                                                                                      |                            |
+| Practice Front End Interview Questions and Document Answers                | Start google doc 1/25/18 Start tweeting on 1/25/18 | https://github.com/h5bp/Front-end-Developer-Interview-Questions                                                                      |                            |
+| Complete Code Newbie Challenge Objective 1:                                | 1/25/18                                            | https://docs.google.com/spreadsheets/d/1m6CU9kOp1OIj-qI3sSoFXLePX2qAhFZFNULS6LLgP-g/edit?usp=sharing                                 |                            |
+| Practice JS and programming concepts                                       | ongoing                                            | https://www.hackerrank.com/dashboard                                                                                                 |                            |
+| Practice remixing projects on Glitch and post new project                  | ongoing                                            | https://glitch.com/                                                                                                                  |                            |
+| Start sharing my coding journey on twitter                                 | start on 1/25/18, ongoing                          | https://twitter.com/SailorWinkelman                                                                                                  |                            |
+| Document ideas for blog posts                                              | ongoing                                            | - comparing non-hierarchical autonomous team structures (experience from collective management of food co-op, plus SCRUM and others) |                            |
+| learn and implement and inspiring framework and library - make new things! | ongoing                                            | https://p5js.org/                                                                                                                    | add to tamagotchi project! |
