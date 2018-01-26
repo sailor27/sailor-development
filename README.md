@@ -10,7 +10,7 @@ This project includes content outside of github:
 * [Twitter](https://twitter.com/SailorWinkelman) - Beginnings of my public writing about my coding journey
 * [Treehouse](https://teamtreehouse.com/sailorwinkelman) - What I've learned since I started coding in 2015. Currently I have been hopping around Javascript lessons.
 * [CodeNewbie Challenge](https://www.codenewbie.org/) - I started the Get A Job challenge on 1/23/18
-  * [Self-Assessment](https://twitter.com/SailorWinkelman/status/956051497137197060);
+  * [Self-Assessment](https://twitter.com/SailorWinkelman/status/956051497137197060)
   * [Mission 1: Research 10 Companies](https://docs.google.com/spreadsheets/d/1m6CU9kOp1OIj-qI3sSoFXLePX2qAhFZFNULS6LLgP-g/edit?usp=sharing)
 
 My Favorite Coding Resources:
@@ -31,8 +31,7 @@ My Favorite Coding Resources:
 * Finish CodeNewbie Mission 1
 * Enhance 1 Epicodus project
 * Post on Twitter
-* Practice a skill (pick from Trello board)
-
+* Read A Basecs post about Data Structures and write down what I learned
 
 
 ### Themes from Code Reviews
