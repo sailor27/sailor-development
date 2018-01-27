@@ -21,7 +21,7 @@ My Favorite Coding Resources:
 
 
 
-## Plan for 01/25/18
+## Plan for 01/26/18
 
 * Organize to-dos on [Trello Board](https://trello.com/b/B7dYMhYH) x
 * Synthesize instructor feedback from previous code reviews and identify themes. x
@@ -32,9 +32,15 @@ My Favorite Coding Resources:
 * Finish CodeNewbie Mission 1 x
 * Enhance 1 Epicodus project [ not completed ]
   * Note: I didn't make much progress from 2.30-4.15 on my [Animal Inventory](https://github.com/sailor27/animal-inventory) refactor. I improved the CSS a little, but felt limited and wanted to set up a router and set up SASS. I made the router, but linking to it duplicated my content, and I wasn't ready to set up a database and Service. I converted the files to SCSS, but had build errors. Then, I uninstalled bower and installed bootstrap using npm. I eventually got everything linked and could build and serve without errors in the terminal, but my page would not load and I received a console error as described in this [open issue with Angular-CLI](https://github.com/angular/angular-cli/issues/7245). I still intend to enhance the UI for this page, but for today it is in poor shape.
-* Post on Twitter
-* Read A Basecs post about Data Structures and write down what I learned
-* Practice JS on FreeCodeCamp
+* Post on Twitter x
+* Read A [Basecs post about Data Structures](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67) x
+* Practice JS Topics on Treehouse.
+  * [Arrow Functions](https://teamtreehouse.com/library/anonymous-function-as-arrow-functions)
+  * Intro to Callback Functions Badge
+  * [Why Promises](https://teamtreehouse.com/library/why-promises)
+  * [How to Make a Promise](https://teamtreehouse.com/library/how-to-make-a-promise)
+
+
 
 
 ### Themes from Code Reviews
